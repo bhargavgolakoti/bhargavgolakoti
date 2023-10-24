@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...   PEGA; WEB DESIGNING; ETC.
 - 🌱 I’m currently learning ... CSSA/ doing certification 
 - 💞️ I’m looking to collaborate on ... PEGA
-- 📫 How to reach me ... BHARGAVGOLAKOTI@GMAIL.COM / 6301497829 (whatsapp-only)
+- 📫 How to reach me ... BHARGAVGOLAKOTI@GMAIL.COM
 
 <!---
 bhargavgolakoti/bhargavgolakoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
